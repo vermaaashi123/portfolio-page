@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url(avimage.jpeg);
+  
+  color: #cfb6b6;
+  
+  justify-content: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #000000;
+  background-color: rgb(22, 131, 215);
+  border-radius: 50px;
+}
+
+h2 {
+  font-size: 22px;
+  margin-top: 20px;
+  background-color: rgb(183, 85, 219);
+  border-radius: 40px;
+  text-align: center;
+  color: #000000;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.skills,
+.education {
+  margin-top: 10px;
+}
+
+.skills ul,
+.education ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.footer {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 14px;
+}
